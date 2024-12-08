@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <div>  UI/UX Hackathon  </div>
+    <div>  UI/UX Hackathon Project  </div>
   );
 }
